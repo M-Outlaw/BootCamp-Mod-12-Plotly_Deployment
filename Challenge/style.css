@@ -1,0 +1,11 @@
+
+.jumbotron {
+    background-image: url("https://www.hydrosolution.com/wp-content/uploads/2020/01/IMG-Header_GuideConseils-Bacterie-1520x436.jpg"); background-size: cover;
+    color: #fff;
+    }
+.jumbotron h1{
+    font-family: 'Brush Script MT', cursive;
+}
+.container {   
+    grid-template-columns: repeat(auto-fit, 100px);
+}
